@@ -2,6 +2,12 @@
 
 **>>>Under construction<<<**
 
+[Tutorials](#Tutorials)     
+&nbsp; &nbsp; [Video tutorials](#Video-tutorials)  
+&nbsp; &nbsp; [Hands-on tutorials](#Hands-on-tutorials)  
+&nbsp; &nbsp; [Video tutorials](#Examples-of-notebooks-in-medical-image-analysis)  
+[Cheat sheets](#Cheat-sheets)     
+
 ## Tutorials
 Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleITK
 
@@ -24,7 +30,10 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 
 ## Cheat sheets  
 There are plenty of cheat sheets online that summarize the main commands and tricks for python and its packages. Here the link to some of them:
-- python: https://ehmatthes.github.io/pcc/cheatsheets/README.html  
-- numpy (linear algebra package):  
-- matplotlib (visualization package): https://github.com/matplotlib/cheatsheets
-- pandas (tabular data analysis): 
+- python: [here](https://ehmatthes.github.io/pcc/cheatsheets/README.html), 
+          [here](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf),
+          [here](https://s3.amazonaws.com/dq-blog-files/python-cheat-sheet-basic.pdf)  
+- numpy (linear algebra package): [here](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf),
+                                  [here](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)
+- matplotlib (visualization package): [here](https://github.com/matplotlib/cheatsheets)
+- pandas (tabular data analysis): [here]()
