@@ -2,6 +2,8 @@
 
 **>>>Under construction<<<**
 
+*Add here any great material you find around!*
+
 [Tutorials](#Tutorials)     
 &nbsp; &nbsp; [Video tutorials](#Video-tutorials)  
 &nbsp; &nbsp; [Hands-on tutorials](#Hands-on-tutorials)  
@@ -30,10 +32,11 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 
 ## Cheat sheets  
 There are plenty of cheat sheets online that summarize the main commands and tricks for python and its packages. Here the link to some of them:
-- python: [here](https://ehmatthes.github.io/pcc/cheatsheets/README.html), 
-          [here](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf),
-          [here](https://s3.amazonaws.com/dq-blog-files/python-cheat-sheet-basic.pdf)  
-- numpy (linear algebra package): [here](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf),
-                                  [here](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)
-- matplotlib (visualization package): [here](https://github.com/matplotlib/cheatsheets)
-- pandas (tabular data analysis): [here]()
+- python: [example1](https://ehmatthes.github.io/pcc/cheatsheets/README.html), 
+          [example2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf),
+          [example3](https://s3.amazonaws.com/dq-blog-files/python-cheat-sheet-basic.pdf)  
+- numpy (linear algebra package): [example1](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf),
+                                  [example2](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)
+- matplotlib (visualization package): [example1](https://github.com/matplotlib/cheatsheets)
+- pandas (tabular data analysis): [example1](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf), 
+                                  [exemple2](https://drive.google.com/file/d/1UHK8wtWbADvHKXFC937IS6MTnlSZC_zB/view)
