@@ -31,7 +31,7 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 - [pyKNEEr](https://github.com/sbonaretti/pyKNEEr): Examples for knee cartilage segmentation and analysis
 
 ### Examples of notebooks in other fields 
-- [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+- [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks): Plenty of examples of notebooks used in other disciplines and for various purposes  
 
 
 ## Cheat sheets  
