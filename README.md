@@ -7,8 +7,9 @@
 [Tutorials](#Tutorials)     
 &nbsp; &nbsp; [Video tutorials](#Video-tutorials)  
 &nbsp; &nbsp; [Hands-on tutorials](#Hands-on-tutorials)  
-&nbsp; &nbsp; [Video tutorials](#Examples-of-notebooks-in-medical-image-analysis)  
-[Cheat sheets](#Cheat-sheets)     
+&nbsp; &nbsp; [Video tutorials](#Examples-of-notebooks-in-medical-image-analysis)
+&nbsp; &nbsp; [Examples of notebooks in medical image analysis](#Examples-of-notebooks-in-medical-image-analysis)
+&nbsp; &nbsp; [Examples of notebooks in other fields](#Examples-of-notebooks-in-other-fields)     
 
 ## Tutorials
 Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleITK
@@ -21,15 +22,15 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 
 ### Hands-on tutorials
 - [SimpleITK notebooks](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/): Collection of all the SimpleITK functionalities: image I/O, filters, etc. 
--	[SPIE 2019 workshop] (https://simpleitk.org/SPIE2019_COURSE/): Tutorial on how to use SimpleITK
-⁃	[OpenMR Benelux 2020] (https://github.com/sbonaretti/2020_OpenMR_jupyter): Basic python and one medical image analysis example  
-⁃	[Imperial College] (https://github.com/ozan-oktay/Medical-Image-Analysis-IPython-Tutorials): Notebooks for an academic course
+- [SPIE 2019 workshop] (https://simpleitk.org/SPIE2019_COURSE/): Tutorial on how to use SimpleITK
+- [OpenMR Benelux 2020] (https://github.com/sbonaretti/2020_OpenMR_jupyter): Basic python and one medical image analysis example  
+- [Imperial College] (https://github.com/ozan-oktay/Medical-Image-Analysis-IPython-Tutorials): Notebooks for an academic course
 
 ### Examples of notebooks in medical image analysis
-⁃	[DLTK](https://github.com/DLTK/DLTK/tree/master/examples/tutorials): Examples for a deep learning package  
-⁃	[pyKNEEr](https://github.com/sbonaretti/pyKNEEr): Examples for knee cartilage segmentation and analysis
+- [DLTK](https://github.com/DLTK/DLTK/tree/master/examples/tutorials): Examples for a deep learning package  
+- [pyKNEEr](https://github.com/sbonaretti/pyKNEEr): Examples for knee cartilage segmentation and analysis
 
-### Examples of notebooks in other fields: 
+### Examples of notebooks in other fields 
 - [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 
