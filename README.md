@@ -22,9 +22,9 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 
 ### Hands-on tutorials
 - [SimpleITK notebooks](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/): Collection of all the SimpleITK functionalities: image I/O, filters, etc. 
-- [SPIE 2019 workshop] (https://simpleitk.org/SPIE2019_COURSE/): Tutorial on how to use SimpleITK
-- [OpenMR Benelux 2020] (https://github.com/sbonaretti/2020_OpenMR_jupyter): Basic python and one medical image analysis example  
-- [Imperial College] (https://github.com/ozan-oktay/Medical-Image-Analysis-IPython-Tutorials): Notebooks for an academic course
+- [SPIE 2019 workshop](https://simpleitk.org/SPIE2019_COURSE/): Tutorial on how to use SimpleITK
+- [OpenMR Benelux 2020](https://github.com/sbonaretti/2020_OpenMR_jupyter): Basic python and one medical image analysis example  
+- [Imperial College](https://github.com/ozan-oktay/Medical-Image-Analysis-IPython-Tutorials): Notebooks for an academic course
 
 ### Examples of notebooks in medical image analysis
 - [DLTK](https://github.com/DLTK/DLTK/tree/master/examples/tutorials): Examples for a deep learning package  
