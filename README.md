@@ -26,8 +26,11 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 ⁃	[Imperial College] (https://github.com/ozan-oktay/Medical-Image-Analysis-IPython-Tutorials): Notebooks for an academic course
 
 ### Examples of notebooks in medical image analysis
-⁃	[DLTK](https://github.com/DLTK/DLTK/tree/master/examples/tutorials): Examples for a deep learning package
+⁃	[DLTK](https://github.com/DLTK/DLTK/tree/master/examples/tutorials): Examples for a deep learning package  
 ⁃	[pyKNEEr](https://github.com/sbonaretti/pyKNEEr): Examples for knee cartilage segmentation and analysis
+
+### Examples of notebooks in other fields: 
+- [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 
 ## Cheat sheets  
