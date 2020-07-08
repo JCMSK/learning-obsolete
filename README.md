@@ -7,9 +7,9 @@
 [Tutorials](#Tutorials)     
 &nbsp; &nbsp; [Video tutorials](#Video-tutorials)  
 &nbsp; &nbsp; [Hands-on tutorials](#Hands-on-tutorials)  
-&nbsp; &nbsp; [Video tutorials](#Examples-of-notebooks-in-medical-image-analysis)
-&nbsp; &nbsp; [Examples of notebooks in medical image analysis](#Examples-of-notebooks-in-medical-image-analysis)
-&nbsp; &nbsp; [Examples of notebooks in other fields](#Examples-of-notebooks-in-other-fields)     
+&nbsp; &nbsp; [Video tutorials](#Examples-of-notebooks-in-medical-image-analysis)  
+&nbsp; &nbsp; [Examples of notebooks in medical image analysis](#Examples-of-notebooks-in-medical-image-analysis)  
+&nbsp; &nbsp; [Examples of notebooks in other fields](#Examples-of-notebooks-in-other-fields)       
 
 ## Tutorials
 Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleITK
