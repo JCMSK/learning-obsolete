@@ -37,7 +37,7 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 
 
 ## Cheat sheets  
-There are plenty of cheat sheets online that summarize main commands and tricks for python and its packages. Here the link to some of them:
+There are plenty of cheat sheets online that summarize main commands and tricks for python and its packages. Here the links to some of them:
 - python: [example1](https://ehmatthes.github.io/pcc/cheatsheets/README.html), 
           [example2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf),
           [example3](https://s3.amazonaws.com/dq-blog-files/python-cheat-sheet-basic.pdf)  
