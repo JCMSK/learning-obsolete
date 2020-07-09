@@ -19,8 +19,8 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 ### Video tutorials
 - [Transparent Research 101](https://www.youtube.com/playlist?list=PLj8QFvBykB7cdVPr6CY08UyPPPzy8R2Ar): Overview playlist on why and how to do open and reproducible research
 - [Jupyter notebook and python for scientists](https://www.youtube.com/playlist?list=PLj8QFvBykB7fGEH274TlqhToqGd_Qxt1H): Overview of the Jupyter/python environment
-- [Scipy conference](https://www.youtube.com/user/EnthoughtMedia/videos): In between conference talks, there are tutorials on Jupyter the main scientific libraries
-- [pyData conference](https://www.youtube.com/user/PyDataTV): In between conference talks, there are tutorials on Jupyter the main scientific libraries
+- [Scipy conference](https://www.youtube.com/user/EnthoughtMedia/videos): In between conference talks, there are tutorials on Jupyter and the main scientific libraries
+- [pyData conference](https://www.youtube.com/user/PyDataTV): In between conference talks, there are tutorials on Jupyter and the main scientific libraries
 
 ### Hands-on tutorials
 - [SimpleITK notebooks](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/): Collection of all the SimpleITK functionalities: image I/O, filters, etc. 
