@@ -1,6 +1,6 @@
 # Learning material
 
-**>>>Under construction<<<**
+**>>> Under construction <<<**
 
 *Add here any great material you find around!*
 
