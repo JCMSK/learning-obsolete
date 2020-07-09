@@ -10,6 +10,8 @@
 &nbsp; &nbsp; [Video tutorials](#Examples-of-notebooks-in-medical-image-analysis)  
 &nbsp; &nbsp; [Examples of notebooks in medical image analysis](#Examples-of-notebooks-in-medical-image-analysis)  
 &nbsp; &nbsp; [Examples of notebooks in other fields](#Examples-of-notebooks-in-other-fields)       
+[Cheat sheets](#Cheat-sheets)
+
 
 ## Tutorials
 Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleITK
