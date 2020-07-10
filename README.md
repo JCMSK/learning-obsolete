@@ -28,7 +28,8 @@ Here is a collection of tutorials to learn Jupyter notebook, python, and SimpleI
 - [OpenMR Benelux 2020](https://github.com/sbonaretti/2020_OpenMR_jupyter): Basic python and one medical image analysis example  
 - [Imperial College](https://github.com/ozan-oktay/Medical-Image-Analysis-IPython-Tutorials): Notebooks for an academic course
 
-### Examples of notebooks in medical image analysis
+### Examples of notebooks in medical image analysis  
+- [Nipype](https://miykael.github.io/nipype_tutorial/): Several notebook tutorials on how to use Nipype
 - [DLTK](https://github.com/DLTK/DLTK/tree/master/examples/tutorials): Examples for a deep learning package  
 - [pyKNEEr](https://github.com/sbonaretti/pyKNEEr): Examples for knee cartilage segmentation and analysis
 
